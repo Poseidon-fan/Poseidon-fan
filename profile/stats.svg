@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Poseidon's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 581, Total Commits  (last year) : 1070, Total PRs: 32, Total PRs Merged: 27, Merged PRs Percentage: 84.38, Total PRs Reviewed: 0, Total Issues: 24, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 582, Total Commits  (last year) : 1070, Total PRs: 32, Total PRs Merged: 27, Merged PRs Percentage: 84.38, Total PRs Reviewed: 0, Total Issues: 24, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.3048226012014;
+        stroke-dashoffset: 88.03638847319631;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >581</text>
+      >582</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
